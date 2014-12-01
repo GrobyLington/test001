@@ -1,4 +1,4 @@
-//
+﻿//
 //  ViewController.m
 //  githubtest
 //
@@ -12,14 +12,25 @@
 
 @end
 
+/**
+ *  <#Description#>
+ */
 @implementation ViewController
 
-- (void)viewDidLoad {
+/**
+ *  <#Description#>
+ */
+- (void)viewDidLoad
+{
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-- (void)didReceiveMemoryWarning {
+/**
+ *  <#Description#>
+ */
+- (void)didReceiveMemoryWarning
+{
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
